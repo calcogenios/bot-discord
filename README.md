@@ -1,5 +1,6 @@
 # bot-discord
 uma ferramenta para debate com referências a Ace Attorney
+
 sabe aquele momento onde seus amigos iniciam a discutir sobre quem ganharia um duelo mano a mano, o Zoro ou o Google Maps? ou aquele debate raiz, sobre qual personagem de Devil May Cry causaria o apocalipse ao acidentalmente apertar o botão que inverte as cores das pílulas da matrix tornando automaticamente os mono Yasuo suporte? Getúlio Vargas tankou o bostil? saiba que você pode deixar esse seu debate muito mais intrigante e bluepille(nenhum personagem de dmc apertou o botão ok) com meu bot!
 - escolha um assunto pre-determinado ou deixe que o bot randomize um pra você. existem três categorias: assuntos meme, assuntos cult e modo detetive (resolvendo enigmas/casos)
 - se o segundo modo for selecionado, um tempo para consulta anterior ao debate pode ser determinado ou não pelos usuários, visto que precisarão ficar online durante o debate por ter limite de tempo
